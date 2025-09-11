@@ -37,7 +37,7 @@ This repository showcases practical data cleaning and exploratory analysis proje
 - **Data Cleaning**: handling missing values, duplicates, type conversions.  
 - **Feature Engineering**: deriving profitability, date features, customer segments.  
 - **Exploratory Analysis**: groupby operations, descriptive statistics, visualizations.  
-- **Tools**: Python (pandas, NumPy, matplotlib, seaborn).  
+- **Tools**: Python (pandas, NumPy, matplotlib, seaborn, sklearn).  
 
 ---
 
