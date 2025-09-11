@@ -54,7 +54,7 @@ python-data-cleaning-and-analysis/
 │  │  └─ cafe_sales_cleaning.ipynb   # Data cleaning workflow
 │  └─ README.md                      # Project description and usage
 │
-└─ superstore-sales-analysis/        # Project 2: Superstore Sales Analysis
+├─ superstore-sales-analysis/        # Project 2: Superstore Sales Analysis
 │  ├─ datasets/
 │  │  └─ superstore.csv              # Superstore dataset
 │  ├─ scripts/
