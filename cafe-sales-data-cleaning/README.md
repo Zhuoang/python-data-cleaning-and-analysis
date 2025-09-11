@@ -4,8 +4,8 @@
 Clean and standardize a raw **point-of-sale (POS)** dataset for reliable sales and profitability analysis.
 
 ## 📂 Data
-- **raw_cafe_sales.csv** – Original dataset with duplicates, missing values, and inconsistent categories.  
-- **cleansed_cafe_sales.csv** – Cleaned dataset after applying transformations.  
+- [**raw_cafe_sales.csv**](cafe-sales-data-cleaning/datasets/raw_cafe_sales.csv) – Original dataset with duplicates, missing values, and inconsistent categories.  
+- [**cleansed_cafe_sales.csv**](cafe-sales-data-cleaning/datasets/cleansed_cafe_sales.csv) – Cleaned dataset after applying transformations.  
 
 ## 🛠️ Steps Performed
 1. Removed duplicate transactions to ensure data integrity.  
