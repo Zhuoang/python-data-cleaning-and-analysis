@@ -61,7 +61,7 @@ python-data-cleaning-and-analysis/
 │  │  └── superstore_analysis.ipynb   # Analysis and visualization
 │  └── README.md                      # Project description and usage
 │
-├── README.md                         # Project overview and instructions
+├── .gitignore                        # Files and directories to ignore in Git
 ├── LICENSE                           # License information
-└── .gitignore                        # Files and directories to ignore in Git
+└── README.md                         # Project overview and instructions
 ```
