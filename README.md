@@ -50,7 +50,7 @@ python-data-cleaning-and-analysis/
 │  ├─ datasets/                      
 │  │  ├─ cleansed_cafe_sales.csv     # Raw sales dataset
 │  │  └─ raw_cafe_sales.csv          # Cleaned dataset
-│  └─ scripts/                       
+│  ├─ scripts/                       
 │  │  └─ cafe_sales_cleaning.ipynb   # Data cleaning workflow
 │  └─ README.md                      # Project description and usage
 │
