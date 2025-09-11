@@ -46,22 +46,22 @@ This repository showcases practical data cleaning and exploratory analysis proje
 ```
 python-data-cleaning-and-analysis/
 │
-├─ README.md                         # Project overview and instructions
-├─ LICENSE                           # License information
-├─ .gitignore                        # Files and directories to ignore in Git
-│
 ├─ cafe-sales-data-cleaning/         # Project 1: Cafe Sales Cleaning
-│  ├─ README.md                      # Project description and usage
-│  ├─ scripts/                       
+│  ├─ datasets/                      
+│  │  ├─ cleansed_cafe_sales.csv     # Raw sales dataset
+│  │  └─ raw_cafe_sales.csv          # Cleaned dataset
+│  └─ scripts/                       
 │  │  └─ cafe_sales_cleaning.ipynb   # Data cleaning workflow
-│  └─ datasets/                      
-│     ├─ cleansed_cafe_sales.csv     # Raw sales dataset
-│     └─ raw_cafe_sales.csv          # Cleaned dataset
+│  └─ README.md                      # Project description and usage
 │
 └─ superstore-sales-analysis/        # Project 2: Superstore Sales Analysis
-   ├─ README.md                      # Project description and usage
-   ├─ scripts/
-   │  └─ superstore_analysis.ipynb   # Analysis and visualization
-   └─ datasets/
-      └─ superstore.csv              # Superstore dataset
+│  ├─ datasets/
+│  │  └─ superstore.csv              # Superstore dataset
+│  ├─ scripts/
+│  │  └─ superstore_analysis.ipynb   # Analysis and visualization
+│  └─ README.md                      # Project description and usage
+│
+├─ README.md                         # Project overview and instructions
+├─ LICENSE                           # License information
+└─ .gitignore                        # Files and directories to ignore in Git
 ```
