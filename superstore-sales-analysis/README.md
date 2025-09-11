@@ -4,7 +4,7 @@
 Analyze sales and profitability patterns using the Superstore dataset, producing insights on customers, products, and regions.
 
 ## 📂 Data
-- **superstore.csv** – Clean, analysis-ready Superstore dataset.
+- [**superstore.csv**](superstore-sales-analysis/datasets/superstore.csv) – Clean, analysis-ready Superstore dataset.
 
 ## 🛠️ Steps Performed
 1. Calculated key metrics: sales, profit, profit margin, and average order value.  
