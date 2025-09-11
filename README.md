@@ -5,7 +5,7 @@ This repository showcases practical data cleaning and exploratory analysis proje
 
 ## 📊 Projects
 
-### 1. [Cafe Sales Data Cleaning](cafe-sales-data-cleaning)
+### [1. Cafe Sales Data Cleaning](cafe-sales-data-cleaning)
 
 **Goal**: Demonstrate data cleaning techniques on a raw point-of-sale dataset.  
 **Highlights**:
@@ -20,7 +20,7 @@ This repository showcases practical data cleaning and exploratory analysis proje
 
 ---
 
-### 2. [Superstore Sales Analysis](superstore-sales-analysis)
+### [2. Superstore Sales Analysis](superstore-sales-analysis)
 **Goal**: Analyze sales and profitability patterns using the clean, analysis-ready Superstore dataset.  
 
 **Highlights**:
